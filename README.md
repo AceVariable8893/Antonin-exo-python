@@ -8,4 +8,8 @@ Exercices en python sous forme de mini-projets
 
 ## 1.2 - Atelier : Les conditions
 
-Mission : Faire prendre des décisions à un programme selon les situations, avec ```python if / elif / else``` et la logique booléenne.
+Mission : Faire prendre des décisions à un programme selon les situations, avec 
+```python
+ if / elif / else
+```
+et la logique booléenne.
