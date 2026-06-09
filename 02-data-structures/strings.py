@@ -44,7 +44,7 @@ print(nb_voyelle)
 #Exercice bonus
 phrase = input("Entrer une phrase : ")
 
-mots = phrase.split(" ")
+mots = phrase.split()
 
 mot_long = len(mots[0]) 
 indice_mot_long = 0
