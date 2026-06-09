@@ -37,6 +37,8 @@ a_le_permis = True
 if age >= 18 and a_le_permis:
     print("Peut conduire")
 
+
+
 #Exercice de base
 nombre = int(input("Donner un nombre : "))
 

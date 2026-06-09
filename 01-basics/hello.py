@@ -21,6 +21,8 @@ print(prenom)
 prenom = input("Quel est ton prénom ? ")
 print(f"Bonjour {prenom}, bienvenue dans la formation Python !")
 
+
+
 #Exercice
 prenom = input("Quel est ton prénom ? ")
 age = input("Quel est ton âge ? ")
