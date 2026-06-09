@@ -17,3 +17,7 @@ Exercices en python sous forme de mini-projets
 ## 2.1 - Atelier : Les listes
 
 **Mission :** Stocker plusieurs valeurs dans une seule structure, la parcourir et calculer dessus (min, max, moyenne).
+
+## 2.2 - Atelier : Les chaînes de caractères
+
+**Mission :** Manipuler du texte — découper, nettoyer, transformer. Brique essentielle pour le parsing et BeautifulSoup en fin de formation.
