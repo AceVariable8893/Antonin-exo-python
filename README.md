@@ -25,3 +25,7 @@ Exercices en python sous forme de mini-projets
 ## 2.3 - Atelier : Les dictionnaires
 
 **Mission :** Structurer une donnée par couples clé/valeur — la forme sous laquelle on stockera les éléments extraits d'une page web.
+
+## 3.1 - Atelier : Les fonctions
+
+**Mission :** Découper un programme en fonctions réutilisables — une fonction, une responsabilité. La base d'un code propre et testable.
