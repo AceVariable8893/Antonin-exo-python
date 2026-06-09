@@ -21,3 +21,7 @@ Exercices en python sous forme de mini-projets
 ## 2.2 - Atelier : Les chaînes de caractères
 
 **Mission :** Manipuler du texte — découper, nettoyer, transformer. Brique essentielle pour le parsing et BeautifulSoup en fin de formation.
+
+## 2.3 - Atelier : Les dictionnaires
+
+**Mission :** Structurer une donnée par couples clé/valeur — la forme sous laquelle on stockera les éléments extraits d'une page web.
